@@ -37,7 +37,7 @@ Explore my projects, interests, and contributions in software engineering.
 ### 🏗️ **Projects & Contributions**
 I have worked with **Maven** and **Gradle** for project management and build automation. Below are some of my key projects with their respective languages.
 Here are some cool projects I've worked on:
-#### **Software Engineering & AI**
+#### **Software Engineering**
 - 🛠️ **NPO System (React, JavaScript, Tailwind CSS, Bootstrap)** - A React-based non-profit organization management system.
 - 🤖 **Database Engine (Java, Maven, MySQL)** - A Java-based custom database engine with indexing.
 - 🌍 **Roamify (MongoDB, Express.js, React, Node.js)** - A MERN stack travel website.
