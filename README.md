@@ -30,7 +30,7 @@ Explore my projects, interests, and contributions in software engineering.
 - **LeetCode:** [Profile](https://leetcode.com/u/mohamedhazem3_) - Solving problems regularly 🚀
 - **CodeForces:** [Profile](https://codeforces.com/profile/MohamedElquesni) - Tackling algorithmic challenges
 - 🏆 **ICPC Participant** - Actively competing in programming contests
-- 🔒 **CTF Competitions** [Profile](https://ctflearn.com/user/mohamedelquesni) - Engaging in cybersecurity challenges and ethical hacking exercises
+- 🔒 **CTF Competitions** [ctflearn](https://ctflearn.com/user/mohamedelquesni) - Engaging in cybersecurity challenges and ethical hacking exercises
 
 ---
 
