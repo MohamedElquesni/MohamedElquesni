@@ -1,9 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Mohamed%20Elquesni&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Mohamed Elquesni" />
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elquesni/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%40TheDar.AI;Backend+systems+%C2%B7+Security+%C2%B7+Hard+problems;Building+from+databases+to+Android+apps" alt="Typing tagline" />
-  </a>
+  <img src="./assets/hero.svg" width="100%" alt="Mohamed Elquesni, Software Engineer @TheDar.AI. A pixel dragon flies across the night sky and writes the name in fire." />
 </p>
 
 <p align="center">
@@ -12,7 +8,9 @@
   <a href="https://leetcode.com/u/mohamedhazem3_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/terminal.svg" width="760" alt="whoami: Mohamed Elquesni, Software Engineer @TheDar.AI. Interests: backend systems, security, hard problems. Stack: Java, Kotlin, Spring Boot, Node.js, TypeScript, MySQL, Python." />
+</p>
 
 ### About me
 
@@ -38,6 +36,12 @@ Most of what I build sits somewhere between backend/data systems and applied ML:
 | [Android-Meal-App](https://github.com/MohamedElquesni/Android-Meal-App) | Recipe browser on TheMealDB API, MVVM with Navigation Component |
 
 ### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="My contributions as a 3D city" src="./profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedElquesni/MohamedElquesni/output/github-snake-dark.svg" />
